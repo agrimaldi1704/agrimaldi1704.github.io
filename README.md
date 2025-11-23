@@ -57,15 +57,8 @@ Monitoreo 24/7
 https://agrimaldi1704.github.io
 
 👨‍💻 Desarrollador
-Alberto Grimaldi
+Alfredo Grimaldi
 Estudiante de Desarrollo Web
 Especializado en crear soluciones digitales seguras para el sector financiero
 
 Proyecto académico demostrando habilidades en desarrollo frontend, diseño UX/UI y especialización en seguridad digital para FinTech.
-
-📞 Contacto
-Email: info@bovedadigital.com
-
-Teléfono: +52 55 1234 5678
-
-Ubicación: Ciudad de México
